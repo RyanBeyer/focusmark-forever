@@ -1,0 +1,11 @@
+## Interface: 16001, 120005, 120007, 120100
+## Title: FocusMark Forever
+## Notes: Focus marker bar for WoW Forever. Fork of FocusMarker by Dentee-Frostmourne (MIT).
+## Author: Dentee-Frostmourne (original FocusMarker); Ryan Beyer (Forever fork)
+## Version: 2.0.18-forever.1
+## X-Original-Project: https://www.curseforge.com/wow/addons/focusmarker
+## SavedVariables: FocusMarkForeverDB
+
+FocusMarkForever.lua
+EditMode.lua
+Config.lua
